@@ -1,0 +1,12 @@
+{
+  "MD013": false,
+  "MD004": false,
+
+  "list-marker-space": {
+    "ul_multi": 1,
+    "ul_single": 1
+  },
+  "ul-indent": {
+    "indent": 4
+  }
+}

@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  docs:
+    build: ./mkdocs.Dockerfile
+    ports:
+      - 8006:8000
+    volumes:
+      - ./:/docs
